@@ -6,9 +6,9 @@
 
 
 ## Lessons
-- [Introduction to PDS](IntroToPDS)
-- [Introduction to PPI](IntroToPPI)
+- [Introduction to PDS](Intro-To-PDS)
+- [Introduction to PPI](Intro-To-PPI)
 
 ## Material
-- [Training Templates](TrainingTemplates)
+- [Training Templates](Training-Templates)
 - [Images](images)
